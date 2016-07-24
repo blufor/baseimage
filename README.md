@@ -2,7 +2,7 @@
 
 This Docker image is based on [Phusion's Ubuntu Baseimage](https://github.com/phusion/baseimage-docker).
 
-## Modifications
+## Features / Modifications
 - Even better syslog logging with all logs ending-up in named pipe
 - Removed SSH daemon (the hard way)
 - Disabled Cron daemon
