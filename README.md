@@ -7,7 +7,6 @@ This Docker image is based on [Phusion's Ubuntu Baseimage](https://github.com/ph
 - Removed SSH daemon (the hard way)
 - Disabled Cron daemon
 - Ruby 2.3
-- Go 1.6
 - Useful CLI tools (```unzip```, ```make```, ```git```)
 - ETCD toolset (```etcdctl```, ```etcd2yaml```, ```yaml2etcd```, ```etcd-erb```)
 - ```port-authority``` gem
